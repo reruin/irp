@@ -1,0 +1,16 @@
+{
+  "name": "irp",
+  "description": "A simple reverse proxy for exposing a local endpoints to the internet",
+  "license": "Apache-2.0",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "server": "node example/server.js",
+    "client": "node example/client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reruin/irp.git"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,9 @@
+{
+  "server_addr":"",
+  "server_port":"",
+  "tunnels":[{
+    "local_addr":"",
+    "local_port":"",
+    "remote_port":""
+  }]
+}
